@@ -28,7 +28,7 @@
 						<h2>Estadisticas</h2>
 					</div>
 					<div id="text">
-						Muestra las estadisticas de la cantidad de nuevos ingresos
+						Muestra las estadisticas de la cantidad de reportes enviados
 					</div>
 				</div>
 			</a>
